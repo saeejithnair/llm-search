@@ -23,7 +23,7 @@ write_to = "src/llmsearch/_version.py"
 where = ["src"]
 
 [tool.setuptools.dynamic]
-dependencies = {file = ["requirements.txt"]}
+dependencies = {file = ["conda_requirements.txt"]}
 
 
 [tool.ruff]

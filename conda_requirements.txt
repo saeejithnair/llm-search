@@ -1,0 +1,39 @@
+llama-cpp-python
+torch
+torchvision
+chromadb
+langchain
+# llama-index
+tokenizers
+transformers
+sentence-transformers
+pypdf2
+ebooklib
+sentencepiece
+setuptools
+loguru
+python-dotenv
+accelerate
+protobuf
+termcolor
+openai
+einops # required for Mosaic models
+click
+bitsandbytes
+# auto-gptq
+InstructorEmbedding
+unstructured
+pymupdf
+streamlit
+python-docx
+six
+sniffio
+sqlalchemy
+starlette
+sympy
+tenacity
+threadpoolctl
+tiktoken
+tokenizers
+tqdm
+# transformers
