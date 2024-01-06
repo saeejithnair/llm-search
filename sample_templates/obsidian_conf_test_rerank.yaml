@@ -3,8 +3,8 @@ cache_folder: llm/cache
 embeddings:
   embeddings_path: llm/embeddings_obsidian
   embedding_model:
-    type: huggingface
-    model_name: "intfloat/e5-mistral-7b-instruct"
+    type: sentence_transformer
+    model_name: "intfloat/e5-large-v2"
   splade_config:
     n_batch: 2
 
