@@ -1,0 +1,6 @@
+[submodule "third-party/mlx-examples"]
+	path = third-party/mlx-examples
+	url = https://github.com/ml-explore/mlx-examples.git
+[submodule "third-party/mlx-llm"]
+	path = third-party/mlx-llm
+	url = https://github.com/saeejithnair/mlx-llm.git
